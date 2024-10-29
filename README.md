@@ -3,6 +3,7 @@ Web Development Intenship
 ![Screenshot 2024-10-29 142042](https://github.com/user-attachments/assets/60861b33-5d0a-490d-9f44-309eb3eb5591)
 
 
+![BMI Screenshot](https://github.com/user-attachments/assets/3e3c99fb-2243-44b6-aaab-a23d311a02d2)
 
 # Calculator
 
