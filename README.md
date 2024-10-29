@@ -21,4 +21,15 @@ This project is a basic calculator built using HTML, CSS, and JavaScript. It per
 - JavaScript: Logic for operations
 
 ## License
-This project is licensed under the MIT License.
+**How to Upload the README.md to GitHub**
+
+1. **Create the README.md file:**
+   - Save the above content as `README.md`.
+
+2. **Open a terminal or command prompt.**
+
+3. **Navigate to the repository folder:**
+   ```bash
+cd final-CognoRise-Infotech
+
+
