@@ -2,10 +2,11 @@
 Web Development Intenship
 ![Screenshot 2024-10-29 142042](https://github.com/user-attachments/assets/f7d0d7fd-6fd5-4e16-b645-61d689a11e5c)
 
+![Uploading BMI Screenshot.png…]()
 
 
 
-# Calculator App
+# Calculator
 
 ## Overview
 This project is a basic calculator built using HTML, CSS, and JavaScript. It performs arithmetic operations such as addition, subtraction, multiplication, and division.
