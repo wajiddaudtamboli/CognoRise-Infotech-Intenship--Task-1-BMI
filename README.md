@@ -1,5 +1,6 @@
-# CognoRise-Infotech-Intenship--Task-1-BMI
+![WhatsApp Image 2024-10-20 at 14 47 47_ed79849c](https://github.com/user-attachments/assets/08b51e55-2c4f-4946-bac2-f2bd841af4b1)![Screenshot 2024-10-29 142042](https://github.com/user-attachments/assets/aa0200fb-79af-4f83-bbdf-655846fae623)# CognoRise-Infotech-Intenship--Task-1-BMI
 Web Development Intenship
+![Uploading Screenshot 2024-10-29 142118.png…]()
 
 # Calculator App
 
