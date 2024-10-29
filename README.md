@@ -1,7 +1,7 @@
 # CognoRise-Infotech-Intenship--Task-1-BMI
 Web Development Intenship
 ![Screenshot 2024-10-29 142042](https://github.com/user-attachments/assets/f7d0d7fd-6fd5-4e16-b645-61d689a11e5c)
-![Uploading Screenshot 2024-10-29 141942.png…]()
+
 
 
 
