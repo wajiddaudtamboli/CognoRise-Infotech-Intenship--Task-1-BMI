@@ -5,26 +5,30 @@ Web Development Intenship
 
 ![BMI Screenshot](https://github.com/user-attachments/assets/3e3c99fb-2243-44b6-aaab-a23d311a02d2)
 
-# Calculator
+
+
+https://github.com/user-attachments/assets/f9530baa-ffae-4969-b622-a50583556e16
+
+
+
+# BMI Calculator App
 
 ## Overview
-This project is a basic calculator built using HTML, CSS, and JavaScript. It performs arithmetic operations such as addition, subtraction, multiplication, and division.
+The BMI Calculator App computes the Body Mass Index (BMI) using user inputs for height and weight. It offers a quick way to check BMI and indicates health status.
 
 ## Features
-- Addition, Subtraction, Multiplication, Division
-- Clear button to reset inputs
-- Interactive buttons with hover effects
+- Real-time BMI calculation.
+- Displays the BMI category (Underweight, Normal, Overweight, Obese).
+- Reset button to clear inputs.
 
 ## How to Use
-1. Clone the repository and navigate to the calculator folder.
-2. Open `index.html` in a web browser.
+1. Clone the repository and navigate to the BMI calculator folder.
+2. Open `index.html` in a browser to run the app.
 
 ## Technologies Used
-- HTML: Structure
-- CSS: Styling
-- JavaScript: Logic for operations
+- HTML: Layout design
+- CSS: Styling elements
+- JavaScript: Calculation logic
 
 ## License
-cd final-CognoRise-Infotech
-
-
+This app is available under the MIT License.
