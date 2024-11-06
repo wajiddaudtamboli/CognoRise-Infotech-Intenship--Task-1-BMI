@@ -5,7 +5,8 @@ Web Development Intenship
 
 ![BMI Screenshot](https://github.com/user-attachments/assets/3e3c99fb-2243-44b6-aaab-a23d311a02d2)
 
-
+🔗 Check It Out:
+https://wajiddaudtamboli.github.io/CognoRise-Infotech-Intenship--Task-1-BMI/
 
 https://github.com/user-attachments/assets/f9530baa-ffae-4969-b622-a50583556e16
 
